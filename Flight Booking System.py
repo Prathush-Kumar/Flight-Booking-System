@@ -6,7 +6,7 @@ class Flight:
         self.price = price  
 
     def check_availability(self):
-        return self.available_seats > 0
+        return self.available_seats > 0 
 
     def reserve_seat(self):
         if self.check_availability():

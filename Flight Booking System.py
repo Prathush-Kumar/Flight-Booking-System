@@ -2,7 +2,7 @@ class Flight:
     def __init__(self, flight_number, destination, available_seats, price):
         self.flight_number = flight_number
         self.destination = destination
-        self.available_seats = available_seats
+        self.available_seats = available_seats 
         self.price = price  
 
     def check_availability(self):

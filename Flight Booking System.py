@@ -10,7 +10,7 @@ class Flight:
 
     def reserve_seat(self):
         if self.check_availability():
-            self.available_seats -= 1
+            self.available_seats -= 1 
             return True
         return False
 

@@ -1,7 +1,7 @@
 # Flight-Booking-System
 
 
-Overview
+# Overview
 
 This project is a simple flight booking system that allows users to search for available flights, book flights, view all available flights, manage bookings (including cancellation and rescheduling), and display all bookings. The system also supports managing seats for flights, where each flight has a limited number of available seats.
 
